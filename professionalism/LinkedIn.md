@@ -12,11 +12,11 @@ Example: 30-45 minutes
 
 Here are links to lessons that should be completed before this lesson:
 
-- Example: [Git version control](version-control/git-version-control/git-version-control.md)
+- Resume: https://github.com/Techtonica/curriculum/blob/master/resume-writing/resume-writing.md
 
-### Motivation
+MOTIVATION
 
-Here's why this topic should be learned. Strengthen this section by including a company that uses this skillset, and a screenshot example if possible.
+LinkedIn is your online professional identity and a great place to maintain & build connections, communicate to potential employers, and highlight your accomplishments.  LinkedIn Profiles are similar to resumes and therefore using the content created on your resume is an easy way to get started.  LinkedIn profiles allow you to go beyond a resume as there are sections for recommendations, ability to highlight personal blogs, websites, or projects, interests, volunteering, and connections.  There is also a social media feed on LinkedIn where you can like and comment on other professional posts and post items yourself.  LinkedIn is often the first place recruiters go to search for talent as well as the first place interviewers or new contacts go to learn more about you .  
 
 ### Objectives
 
